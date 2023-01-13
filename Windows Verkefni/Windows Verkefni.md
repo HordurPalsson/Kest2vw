@@ -38,3 +38,13 @@ What changes, if any, have been made to the new BIOS version to fix problems?
 What are the instructions to update the new BIOS version?
 > Instant Flash
 
+## 3.1.2.7 Lab - Install Third-Party Software in Windows
+## Fundum ekki hlekk á pakket tracer hlóðum niður discord í staðinn.\
+What is the default installation location for Packet Tracer?
+> user/AppData/Local/Discord
+
+Why does Microsoft recommend using Uninstall or change a program to remove an installed application?
+Type your answers here.
+> Forritið býr oft til auka skjöl fyrir utan heimaslóð sína sem Windows eyðir fyrir mann.
+
+## 10.2.1.8 Lab - Create a Partition in Windows
