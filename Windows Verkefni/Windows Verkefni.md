@@ -9,4 +9,32 @@
 ![](Images/disabled%20driver.jpg)
 ![](Images/driver%20details.jpg)
 
+What options are available in the Driver tab?
+> Driver details, update driver, disable driver, uninstall driver
+
+After finalizing the Windows installation, what else can you do to improve your experience?
+> Uppfæra windows.
+
 ## 3.1.2.5 Lab - Search for BIOS or UEFI Firmware Updates
+
+What key or combination of keys is used to run Setup on your computer?
+> F2 
+
+Who is the manufacturer of the BIOS?
+> Asrock 
+
+Which BIOS version is installed in your computer?
+> H97M Pro4 P2.10
+
+What is the current BIOS version available for the motherboard?
+>  13.3.2018
+
+What features, if any, have been added to the new BIOS version?
+> Nvme stuðningur
+
+What changes, if any, have been made to the new BIOS version to fix problems?
+> Fundum ekkert
+
+What are the instructions to update the new BIOS version?
+> Instant Flash
+
