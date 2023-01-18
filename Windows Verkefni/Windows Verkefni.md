@@ -334,10 +334,10 @@ What limitations does this type of an account have?
 
 The Make changes to Username’s account? window opens. Click Create a password.
 What information is listed for the new account?
->
+> nafn, local account, nýtt aðgangsorð og hint fyrir aðgangsorðið
 
 What is the advantage of having most users work within a Standard user account?
->
+> Ekki allir þurfa á auknu leyfi að halda sérstaklega í vinnu umhverfi þar sem margar tölvur eru tengdar saman að deila skrám. Einn notandi ætti ekki að geta haft mikil áhrif á aðra fyrir utan vinnusvæði sitt.
 
 For this lab, select Delete Files. What are the other options? When would you choose the other options?
 >
