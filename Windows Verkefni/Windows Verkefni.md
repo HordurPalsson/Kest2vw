@@ -193,11 +193,11 @@ Startup tab. Right-click a process and list the available options below.
 The App history tab lists the historical resources usage.
 Question:
 What type of information can you get from this list?
-> Birtir hversu mikið app hefur nýtt sér tölvuna yfir ákveðinn tíma punkt. 
+> Birtir hversu mikið app hefur nýtt sér tölvuna yfir ákveðið tímabil. 
 
 The Details tab displays process information such as process ID (PID), status, and memory utilization.
 Right-click a process and list the available options below.
->
+> 
 
 Why is it important for an administrator to understand how to work within the Task Manager?
 > Task manger er mikilvægur partur af windows. Notandinn getur nýtt sér hann til að afla sér upplýsingar um tölvuna.
