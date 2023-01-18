@@ -79,3 +79,41 @@ after the volume was converted to NTFS?
 
 Why is there an additional Security tab in the properties window of documents stored on an NTFS volume?
 > Gerir manni kleift að læsa skjölum og breyta hver hefur aðgang að þeim.
+
+## 11.1.2.10 Lab - Explore the Windows Desktop
+
+List some of the icons that are on the Desktop.
+> Edge and Recycle bin
+
+What type of information is available on the Desktop and Taskbar?
+> Time and date, weather, widgets, file manager og search.
+
+Name a few applications listed in the Start Menu.
+> Office, photos og edge
+
+Right-click an application or a Windows tile from within the Start Menu.
+Question:
+What are some of the available options?
+> Unpin from start, resize, more and uninstall.
+
+What are the available options in the Taskbar settings?
+> ![](/Windows%20Verkefni/Images/)
+
+Task View is the native virtual desktop feature for Windows 10. This allows you to view multiple desktops
+and used applications at the same time. Click Task View. (The icon is normally to the right of the Search
+bar.)
+> New desktop.
+
+Open the same application in Desktop 2 that was opened in Desktop 1.
+Question:
+What happened?
+> Opnadist venjulega.
+
+The Notification area on the right edge of the Taskbar provides system information.
+List some examples of system information below.
+> Location, Night light, All settings og Network.
+
+What can you do in the Notification & actions Settings window?
+> Location, Night light, All settings og Network.
+
+## 11.1.3.4 Lab - Work with Task Manager
