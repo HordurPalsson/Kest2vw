@@ -132,9 +132,41 @@ Click the Services tab. Use the scroll bar on the right side of the Services win
 listed
 Question:
 What statuses are listed?
->
+> ![](/Windows%20Verkefni/Images/Services.jpg)
 
 Right-click on one of the services listed.
 Question:
 What are the available actions that can be taken?
->
+> ![](/Windows%20Verkefni/Images/Services%20settings.jpg)
+
+What is the current utilization of the CPU?
+> 1%
+
+How many streams of instructions (i.e. Threads) are currently running?
+> 1266 threads
+
+How many Apps, Background processes, and Windows processes (i.e Processes) are currently running?
+> 45
+
+What is the total physical memory (MB)?
+> 7700 mb
+
+What is the available physical memory (MB)?
+> 4700 mb
+
+How much physical memory (MB) is being used by the computer?
+> 2900 mb
+
+What is the link speed? What type of Ethernet Adapter is in use on this computer?
+> 100mbs, interl(R) Connection (2) I218-V
+
+What type of network connection (i.e Connection type) is in use?
+> Ethernet
+
+What is the IPv4 address of the PC
+> 10.11.214.63
+
+Click the Memory heading. Click the Memory heading a second time.
+Question:
+What effect does this have on the columns?
+
