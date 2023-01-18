@@ -97,7 +97,7 @@ What are some of the available options?
 > Unpin from start, resize, more and uninstall.
 
 What are the available options in the Taskbar settings?
-> ![](/Windows%20Verkefni/Images/)
+> ![](/Windows%20Verkefni/Images/Taskbar%20settings.jpg)
 
 Task View is the native virtual desktop feature for Windows 10. This allows you to view multiple desktops
 and used applications at the same time. Click Task View. (The icon is normally to the right of the Search
@@ -117,3 +117,13 @@ What can you do in the Notification & actions Settings window?
 > Location, Night light, All settings og Network.
 
 ## 11.1.3.4 Lab - Work with Task Manager
+
+To force the web browser to close, highlight the browser, and click End task.
+Question:
+What happened?
+> Lokast 
+
+Open the web browser again. Right-click the web browser in the Task Manager.
+Question:
+What options are available?
+> ![](/Windows%20Verkefni/Images/Taskmanager%20settings.jpg)
