@@ -290,7 +290,24 @@ Which subcategory would you use to uninstall a program?
 > Programs and Features
 
 Which subcategory would you use to install the Windows telnet client?
-> 
+> Windows Features in Programs
 
+account type from administrator to standard?
+> User Accounts
+
+Which subcategory would you use to view, edit, or remove the web and Windows credentials?
+> Change account type in User Accounts
+
+Which subcategory would you use to customize the Taskbar?
+> Appearance and Personalization
+
+Which subcategory would you use to show hidden files and folders?
+> File Explorer Options in Appearance and Personalization
+
+Which subcategory would you use to show extensions for known file types?
+> File Explorer Options in Appearance and Personalization
+
+Which subcategory would you use to change the time zone?
+> Clock and Region
 
 
