@@ -262,4 +262,11 @@ from the computer?
 In the Control Panel, click the View by: drop-down box.
 Question:
 What are the viewing options?
->
+> Category, large icons, small icons.
+
+Select the Categories view as necessary.
+Name a few of the Control Panel categories.
+> ![](/Windows%20Verkefni/Images/Control%20Panel%20Views.png)
+
+Which subcategory would help you troubleshoot common problems?
+> Security and maintanence.
