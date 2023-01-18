@@ -256,3 +256,10 @@ Which folders or files listed under the Libraries heading?
 How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents
 from the computer?
 > Búa til afrit og geyma það annarstaðar áður en ég eyði foleder1
+
+## 11.2.1.5 Lab - Explore Control Panel Categories
+
+In the Control Panel, click the View by: drop-down box.
+Question:
+What are the viewing options?
+>
