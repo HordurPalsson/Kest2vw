@@ -236,4 +236,13 @@ What are folders listed in the Local Disk (C:)?
 > programfiles, programfiles(x86) og temp.
 
 Open the Users folder. List all the folders in the directory
+> Nemandi og public
+
+Open the folder associated with your username.
+Were you able to open it? Explain.
+> Heimasvæði manns, t.d. forrit sem eru á desktopinum. Documents, downloads og fleira.
+
+Open the folder associated with another username if it is available on the PC.
+Question:
+Were you able to open it? Explain.
 >
