@@ -169,4 +169,32 @@ What is the IPv4 address of the PC
 Click the Memory heading. Click the Memory heading a second time.
 Question:
 What effect does this have on the columns?
+> 
 
+Right-click on the Memory heading, and then select Resource values > Memory > Percents.
+Questions:
+What affect does this have on the Memory column?
+Type your answers here.
+>
+
+How could this be useful?
+>
+
+The listed processes are divided by categories. What categories are listed?
+>
+
+Right-click a username. What are the available options?
+>
+
+The Startup tab lists the processes that are started automatically during Windows startup. Click the
+Startup tab. Right-click a process and list the available options below.
+>
+
+The App history tab lists the historical resources usage.
+Question:
+What type of information can you get from this list?
+>
+
+The Details tab displays process information such as process ID (PID), status, and memory utilization.
+Right-click a process and list the available options below.
+>
