@@ -127,3 +127,14 @@ Open the web browser again. Right-click the web browser in the Task Manager.
 Question:
 What options are available?
 > ![](/Windows%20Verkefni/Images/Taskmanager%20settings.jpg)
+
+Click the Services tab. Use the scroll bar on the right side of the Services window to view all the services
+listed
+Question:
+What statuses are listed?
+>
+
+Right-click on one of the services listed.
+Question:
+What are the available actions that can be taken?
+>
