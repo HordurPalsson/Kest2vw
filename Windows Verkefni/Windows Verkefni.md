@@ -197,7 +197,43 @@ What type of information can you get from this list?
 
 The Details tab displays process information such as process ID (PID), status, and memory utilization.
 Right-click a process and list the available options below.
-> 
+> ![](/Windows%20Verkefni/Images/Details%20settings.jpg)
 
 Why is it important for an administrator to understand how to work within the Task Manager?
 > Task manger er mikilvægur partur af windows. Notandinn getur nýtt sér hann til að afla sér upplýsingar um tölvuna.
+
+## 11.1.4.11 Lab - Working with File Explorer
+
+What is the file extension for the text document?
+> .txt
+
+Make a copy of the text document and place it in Folder2.
+Question:
+How would you do it?
+> ctrl+c on the txt file. Navigate to the new folder and press ctrl+v.
+
+Right-click the text document > click Properties. Click the Details tab.
+What are the attributes associated with this file?
+> File is ready for archiving, allow this file to have contents indexed in addition to file properties.
+
+Now create a folder named Folder3 inside Folder2.
+Questions:
+What is the complete path to Folder3? (Hint: One way to find this information is in the folder properties.)
+> C:\\Users\Nemandi\Downloads\New folder(2)\New folder(3)
+
+
+In Windows 8.x and 10, which directories are listed under Folders? (Note: There is no Folders heading in
+Windows Explorer.)
+> Öll skjöl
+
+Drag and drop Folder1 onto Quick Access (Windows 10) or Favorites (Windows 7 and 8.x).
+What happened? Why would you want to do this?
+> Auðveldar aðgang að skjalinu.
+
+Within the File Explorer or Windows Explorer, navigate to the Local Disk (C:).
+Question:
+What are folders listed in the Local Disk (C:)?
+> programfiles, programfiles(x86) og temp.
+
+Open the Users folder. List all the folders in the directory
+>
