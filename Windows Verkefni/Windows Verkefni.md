@@ -245,4 +245,14 @@ Were you able to open it? Explain.
 Open the folder associated with another username if it is available on the PC.
 Question:
 Were you able to open it? Explain.
->
+> Já við opnuðum public folderinn sem inniheldur skrár sem notendur á tölvunni deila.
+
+Open the Public folder. List all the folders in the directory.
+> Public downloads, Public misc, Public Pictures og Public Videos
+
+Which folders or files listed under the Libraries heading?
+> Documents, Music, Pictures, Videos.
+
+How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents
+from the computer?
+> Búa til afrit og geyma það annarstaðar áður en ég eyði foleder1
