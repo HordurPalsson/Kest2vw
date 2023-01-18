@@ -169,32 +169,35 @@ What is the IPv4 address of the PC
 Click the Memory heading. Click the Memory heading a second time.
 Question:
 What effect does this have on the columns?
-> 
+> sortar eftir memmory notkun
 
 Right-click on the Memory heading, and then select Resource values > Memory > Percents.
 Questions:
 What affect does this have on the Memory column?
 Type your answers here.
->
+> Birtir memory notkun í prósentum
 
 How could this be useful?
->
+> Getur verið meir áberandi heldur en magnið sjálft sem er í notkun
 
 The listed processes are divided by categories. What categories are listed?
->
+> CPU, Memory, Disk, Network og GPU
 
 Right-click a username. What are the available options?
->
+> Expand, disconnect og manage user account.
 
 The Startup tab lists the processes that are started automatically during Windows startup. Click the
 Startup tab. Right-click a process and list the available options below.
->
+> Expand, disable, open file location, search online og properties.
 
 The App history tab lists the historical resources usage.
 Question:
 What type of information can you get from this list?
->
+> Birtir hversu mikið app hefur nýtt sér tölvuna yfir ákveðinn tíma punkt. 
 
 The Details tab displays process information such as process ID (PID), status, and memory utilization.
 Right-click a process and list the available options below.
 >
+
+Why is it important for an administrator to understand how to work within the Task Manager?
+> Task manger er mikilvægur partur af windows. Notandinn getur nýtt sér hann til að afla sér upplýsingar um tölvuna.
