@@ -327,10 +327,10 @@ dictation accuracy?
 ## 11.2.2.3 Lab - User Accounts
 
 What can a user do with a limited account?
->
+> Flakka á vefnum og svoleiðis.
 
 What limitations does this type of an account have?
-> 
+> Kemur í veg fyrir það uppsetja forrit og hefur  aðgang að skertum settings fyrir aðgang sinn.
 
 The Make changes to Username’s account? window opens. Click Create a password.
 What information is listed for the new account?
