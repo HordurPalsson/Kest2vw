@@ -41,7 +41,7 @@ What are the instructions to update the new BIOS version?
 ## 3.1.2.7 Lab - Install Third-Party Software in Windows
 
 What is the default installation location for Packet Tracer?
-> 
+> C:\Program Files\Cisco Packet Tracer 8.2.0
 
 Why does Microsoft recommend using Uninstall or change a program to remove an installed application?
 Type your answers here.
@@ -56,3 +56,26 @@ How much Free Space is shown?
 
 List the tabs found in the NEW VOLUME (I): Properties window?
 > General, Tools, Hardware, Sharing, Customize, Previous version og Readyboost.
+
+What happens if you do not run as administrator when you open the command prompt?
+> Command prompt opnast ekki í system32 með adminn leyfi sem kemur í veg fyrir mikið af.
+
+What type of File System is used for the ITE (I:) drive?
+> NTFS
+
+What are the tabs in the ITE (I:) Properties window?
+> General, Tools, Hardware, Sharing, Security, Customize, Previous version, Readyboost og Quota.
+
+When the volume was FAT32, there were six tabs. What are the names of the new tabs that were added
+after the volume was converted to NTFS?
+> Qouta og Security.
+
+What are the tabs in the ITE Test Document Properties window?
+> General Security, Details og Previous Version.
+
+When the volume was FAT32, there were three tabs. What is the name of the new tab that was added
+after the volume was converted to NTFS?
+> Security
+
+Why is there an additional Security tab in the properties window of documents stored on an NTFS volume?
+> Gerir manni kleift að læsa skjölum og breyta hver hefur aðgang að þeim.
