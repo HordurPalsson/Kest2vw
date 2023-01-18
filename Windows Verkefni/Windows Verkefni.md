@@ -270,3 +270,27 @@ Name a few of the Control Panel categories.
 
 Which subcategory would help you troubleshoot common problems?
 > Security and maintanence.
+
+Which subcategory allow a program through Windows Firewall?
+> Windows defender firewall
+
+Which subcategory allows you to view the basic network information and set up connections?
+> Network and internet.
+
+Which subcategory allows you to choose what happens when you insert a media or device?
+> Hardware and sound
+
+Which subcategory allows you to add a printer?
+> \Hardware and sound\Devices and Printers
+
+Which subcategory would you use to have a specific file type always open in a specified program?
+> Programs
+
+Which subcategory would you use to uninstall a program?
+> Programs and Features
+
+Which subcategory would you use to install the Windows telnet client?
+> 
+
+
+
