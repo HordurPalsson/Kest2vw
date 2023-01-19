@@ -394,7 +394,16 @@ printer.
 > Microsoft print to pdf.
 
 What message did you receive? How would you fix this?
->
+> Það vantar prentara til þess að prenta skjalið
 
 When DHCP Client stops, what other services will also be stopped?
->
+> hættir að uppfæra dynamic ip og DNS uppfærslur.
+
+Why is it important to exercise care when managing services?
+> Windows reyðir sig á services. Ef maður slekkur á þeim án skilnings getur það skert notkun tölvunar og mögulega skaðað hana.
+
+What is the full path name to the example file name?
+>C:/PerfLogs/DataCollector01
+
+What does the column farthest to the right show?
+> 5672, 5663, 5608, 5617
