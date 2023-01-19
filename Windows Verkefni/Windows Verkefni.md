@@ -340,16 +340,32 @@ What is the advantage of having most users work within a Standard user account?
 > Ekki allir þurfa á auknu leyfi að halda sérstaklega í vinnu umhverfi þar sem margar tölvur eru tengdar saman að deila skrám. Einn notandi ætti ekki að geta haft mikil áhrif á aðra fyrir utan vinnusvæði sitt.
 
 For this lab, select Delete Files. What are the other options? When would you choose the other options?
->
+> Change the account type og Manage another account. Maður gæti notað þetta t.d. ef vitlaust notandi var valinn eða til þess að breyta leyfi notendans
 
 Why is it important to protect all accounts with strong passwords?
->
+> Til að koma í veg fyrir það að aðrir geta komist inn á aðganginn
 
 Why would you create a user with Standard privileges?
->
+> Ekki allir þurfa admin leyfi til þess að geta nýtt sér tölvuna. 
 
 In what type of situation would an IT administrator delete a user account and choose to keep the files of that
 user account instead of deleting them?
+> Ef verið er að deila skjölum en það er ekki lengur þörf á ákveðnum aðgangi.
+
+## 11.2.5.8 Lab - Manage Virtual Memory
+
+What is the current size of the virtual memory (paging file)?
 >
 
+What Drive [Volume Label] contains the paging file?
+>
+
+What is the recommended paging file size for all drives?
+>
+
+What Drive [Volume Label] contains the paging file?
+>
+
+Why would you ever change the default virtual memory page file settings in Windows?
+>
 
