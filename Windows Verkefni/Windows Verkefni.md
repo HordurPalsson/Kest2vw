@@ -364,7 +364,7 @@ What is the recommended paging file size for all drives?
 > 1879mb
 
 What Drive [Volume Label] contains the paging file?
->
+> C:
 
 Why would you ever change the default virtual memory page file settings in Windows?
 > Getur aukið hraða tölvunar með því að stækka magnið a virtual memory.
