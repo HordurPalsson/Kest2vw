@@ -403,7 +403,38 @@ Why is it important to exercise care when managing services?
 > Windows reyðir sig á services. Ef maður slekkur á þeim án skilnings getur það skert notkun tölvunar og mögulega skaðað hana.
 
 What is the full path name to the example file name?
->C:/PerfLogs/DataCollector01
+> C:/PerfLogs/DataCollector01
 
 What does the column farthest to the right show?
 > 5672, 5663, 5608, 5617
+
+## 11.3.2.7 Lab - System Utilities
+
+What was the path you use to navigate to the Event Viewer?
+>
+
+What is the background picture?
+>
+
+What is the data value of the Background (hint – it has three numbers that correspond to red, green, and
+blue)?
+>
+
+What is the data value of the Background?
+>
+
+What is the data value of the Background? Compare the new value in the Registry to the value saved in
+BlueBKG.reg.
+>
+
+What is the data value of the Background?
+>
+
+What is the color of the desktop?
+>
+
+Why would it be beneficial to add snap-ins to the mmc that are for other computers on the network?
+>
+
+After restarting the computer, why was the desktop color changed?
+>
