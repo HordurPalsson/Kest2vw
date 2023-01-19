@@ -355,14 +355,17 @@ user account instead of deleting them?
 ## 11.2.5.8 Lab - Manage Virtual Memory
 
 What is the current size of the virtual memory (paging file)?
-> 10gb
+> 1920mb
 
 What Drive [Volume Label] contains the paging file?
->
+> C:
 
 What is the recommended paging file size for all drives?
->
+> 1879mb
 
 What Drive [Volume Label] contains the paging file?
 >
+
+Why would you ever change the default virtual memory page file settings in Windows?
+> Getur aukið hraða tölvunar með því að stækka magnið a virtual memory.
 
