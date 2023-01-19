@@ -369,3 +369,32 @@ What Drive [Volume Label] contains the paging file?
 Why would you ever change the default virtual memory page file settings in Windows?
 > Getur aukið hraða tölvunar með því að stækka magnið a virtual memory.
 
+## 11.2.6.2 Lab - Use Device Manager
+
+What information is listed in the Device Manager window? Why would you use it?
+> Velja hlutinn í device manager og láta kíkja hvort drivers séu í boði fyrir hann á netinu eða leyta af þeim sjálfur og láta windows keyra þá.
+
+What additional information does Driver Details provide?
+> Provider, file version, copyright, digital signer og driver files.
+
+What two options do you have for updating the driver?
+> Update drivers automatically eða browse my computer for drivers
+
+What does the Roll Back Driver button do? The Roll Back Driver can be grayed out on your computer,
+why would it be grayed out?
+> Eldri drivers eru ekki boði.
+
+What are the other available options?
+> Driver details, update drivers, disable device og uninstall device.
+
+## 11.3.1.11 Lab - Monitor and Manage System Resources
+
+In Notepad, click File > Print. Record a listed printer below. Note: You do not need to install a physical
+printer.
+> Microsoft print to pdf.
+
+What message did you receive? How would you fix this?
+>
+
+When DHCP Client stops, what other services will also be stopped?
+>
