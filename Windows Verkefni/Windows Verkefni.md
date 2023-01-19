@@ -340,16 +340,16 @@ What is the advantage of having most users work within a Standard user account?
 > Ekki allir þurfa á auknu leyfi að halda sérstaklega í vinnu umhverfi þar sem margar tölvur eru tengdar saman að deila skrám. Einn notandi ætti ekki að geta haft mikil áhrif á aðra fyrir utan vinnusvæði sitt.
 
 For this lab, select Delete Files. What are the other options? When would you choose the other options?
->
+>Delete account og Cancel, Cancel ef þú vilt ekki eða accountinu
 
 Why is it important to protect all accounts with strong passwords?
->
+>svo enginn kemst in sem á ekki við
 
 Why would you create a user with Standard privileges?
->
+>fyrir opinberan Account
 
 In what type of situation would an IT administrator delete a user account and choose to keep the files of that
 user account instead of deleting them?
 >
 
-
+## 11.2.5.8 Lab - Manage Virtual Memory
