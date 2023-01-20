@@ -620,7 +620,16 @@ What happened? Explain
 > Keyrir ekki vegna þess að c drifið er í notkun
 
 What is the file system of the drive?
->
+> NTFS
+
+Enter list partition to list all the partitions on the disk. How many partitions are on the disk?
+> 5
+
+What option is used to determine the maximum number of bytes that the volume can be shrink by?
+> QUERYMAX
+
+What is the maximum number of reclaimable bytes?
+> 17gb
 
 
 ## 11.4.4.2 Lab - Task and System CLI Commands
