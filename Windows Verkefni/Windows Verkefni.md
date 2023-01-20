@@ -519,3 +519,12 @@ What command would you use to delete all the files in the directory? Use the com
 files
 > 
 
+What are the advantages of using CLI vs. GUI?
+> 
+
+## 11.4.3.2 Lab - Disk CLI Commands
+
+## 11.4.4.2 Lab - Task and System CLI Commands
+
+## 11.4.5.3 Lab - Other Useful Commands(sleppa step 2 í part 2)
+
