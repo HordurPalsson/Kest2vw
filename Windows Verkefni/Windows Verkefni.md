@@ -561,25 +561,25 @@ What is the last command?
 Type cd at the command prompt.
 Question:
 What is the current directory?
->
+> C:/User/Nemandi
 
 Type cd ITEfolder3 at the command prompt and press Enter.
 Question:
 Which folder are you in now?
->
+> ITEfolder3
 
 Create ITEfolder4 in the current directory. Within the ITEfolder4 folder, create a folder named
 ITEfolder5. Use the dir command to verify the folder creation.
 Question:
 What command or commands did you use to create the nested folders?
->
+> cd ITEfolder3 og md ITEfolder4
 
 After issuing the cd .. command, what is your directory now?
->
+> C:/User/Nemandi/ITEfolder3
 
 What would be the current directory if you issue this command at
 C:\Users\ITEUser\ITEfolder3\ITEFolder4?
->
+> C:/User/Nemandi/ITEfolder3/ITEfolder4
 
 What single command would you use to delete all the files with doc2 in the filename? Use the command
 to remove the files with doc2 in the filename.
@@ -587,10 +587,20 @@ to remove the files with doc2 in the filename.
 
 What command would you use to delete all the files in the directory? Use the command to remove the
 files
-> 
+> del
+
+Use help xcopy or xcopy /? to determine which switch would allow the xcopy command to copy all the
+files and directories.
+Question:
+What option allows you to copy all the files and directories, including the empty directories?
+>
+
+Use the rd ITEfolder1 to delete the directory. Verify the directory removal using the dir command.
+Were you able to delete the directory? Explain.
+>
 
 What are the advantages of using CLI vs. GUI?
-> 
+>  CLI er öflugri en GUI er auðveldari að skilja
 
 ## 11.4.3.2 Lab - Disk CLI Commands
 
