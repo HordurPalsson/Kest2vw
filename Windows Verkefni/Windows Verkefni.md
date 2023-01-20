@@ -438,3 +438,50 @@ Why would it be beneficial to add snap-ins to the mmc that are for other compute
 
 After restarting the computer, why was the desktop color changed?
 >
+
+## 11.3.2.8 Lab - Manage System Files
+
+## 11.4.1.5 Lab - Work in the Windows Command Shell
+
+To see the next page, press the spacebar. What happens when you press enter?
+> Birir næstu skipun.
+
+| Command | Function |
+|-----|-----|
+|CD |Shows the current directory or changes it|
+|CHKDSK|Checks a disk and displays a status report|
+|COPY|Copies one or more files to another location.|
+|DEL|Deletes one or more files.|
+|DIR|Displays a list of files and subdirectories in a directory.|
+|DISKPART|Displays or configures Disk Partition properties.|
+|EXIT|Quits the CMD.EXE program|
+|FORMAT|Formats a disk for use with Windows.|
+|GPRESULT|Displays Group Policy information for machine or user.|
+|MD|Creates a directory.|
+|TASKLIST|Kill or stop a running process or application.|
+|RD|Removes a directory.|
+|ROBOCOPY|Advanced utility to copy files and directory trees|
+|SHUTDOWN|Allows proper local or remote shutdown of machine.|
+|XCOPY|Copies files and directory trees.|
+
+How would you create these folders C:\Users\ITEUser\a\b\c if your current directory is
+C:\Users\ITEUser?
+> md C:\Users\ITEUser\a\b\c
+
+What command would you use to verify the creation of the nested directories?
+> cd C:\Users\ITEUser\a\b\c
+
+Clear the screen using the command line.
+Question:
+What command did you use?
+> CLS
+
+Press F7 on the keyboard for the command history.
+Question:
+What is the last command that you have used? Press Esc on the keyboard to exit the dialog box.
+> CLS
+
+Press up arrow to display the last command used.
+Question:
+What is the last command?
+> CLS
