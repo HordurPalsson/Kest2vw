@@ -462,54 +462,54 @@ DMA channels and the device using the resources.
 
 Under the Components heading locate and list the following:
 Adapter Description:
-> 
+> ![](/Windows%20Verkefni/Images/Adapter%20description.jpg)
 
 Adapter RAM:
-> 
+> 2gb
 
 Under the Software Environment heading, where would you find the applications that automatically load
 when the computer boots?
->
+> Edge, auto launch, onedrive og security health
 
 What are the startup options?
->
+>  Normal, diagnostic og selective.
 
 Can you enable and disable services at this tab?
->
+> ja i  selective start up
 
 Click the Tools tab.
 Question:
 What can you do in this tab?
->
+> Kveikja á forritum 
 
 Make sure the System tab is active.
 Question:
 What does this tool report?
->
+> system information
 
 Click Next Page until you are at the Display tab.
 Question:
 What information is listed on this page?
->
+> GPU, RAM, VRAM, Monitor, Drivers og Directx features
 
 Click Next Page until you are at the Sound tab.
 Question:
 What information is listed on this page?
->
+> Upplýsingar um hljóðkortið.
 
 What information is listed on this page?
->
+> íhlutir tengdir tölvuni
 
 List any additional tabs in your DirectX Diagnostic Tool window below.
 Question:
 What information is listed on these extra tabs?
->
+> Notes: birtir skilaboð um viðeigandi tab.
 
 Why would it be beneficial to turn off a service in the system configuration?
->
+> Létt á álagi á tölvuna
 
 When would you use the startup tab of the system configuration tool?
->
+> Slökkva á forritum sem þurfa ekki á kveikja á sér strax og talvvan kviknar.
 
 ## 11.4.1.5 Lab - Work in the Windows Command Shell
 
