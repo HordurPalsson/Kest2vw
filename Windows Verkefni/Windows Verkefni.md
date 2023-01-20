@@ -411,35 +411,105 @@ What does the column farthest to the right show?
 ## 11.3.2.7 Lab - System Utilities
 
 What was the path you use to navigate to the Event Viewer?
->
+> Console root/Computer management/Event Viewer
 
 What is the background picture?
->
+> Default windows 10 background
 
 What is the data value of the Background (hint – it has three numbers that correspond to red, green, and
 blue)?
->
+> 0 0 0
 
 What is the data value of the Background?
->
+> 0 0 0
 
 What is the data value of the Background? Compare the new value in the Registry to the value saved in
 BlueBKG.reg.
->
+> 232 17 35
 
 What is the data value of the Background?
->
+> 0 0 0 
 
 What is the color of the desktop?
->
+> red
+
+Restart the computer.
+Question:
+What is the color of the desktop?
+> Black
 
 Why would it be beneficial to add snap-ins to the mmc that are for other computers on the network?
->
+> Hægt að búa til tól sem geta filgst með ýmsum hlutum í tölvunni einfaldar söfnun gagna
 
 After restarting the computer, why was the desktop color changed?
->
+> Við breyttum skjalinu fyrir bakgrunninn í registry editor
 
 ## 11.3.2.8 Lab - Manage System Files
+
+Under the System Summary heading locate and list the following:
+Processor:
+> Intel(R) Core(TM) i3-4160
+
+BIOS Version/Date
+> American megatrends inc p2.10, /6/13/2016
+
+Total Physical Memory
+> 7.68 gb
+
+Under the Hardware Resources heading, locate and list the following:
+DMA channels and the device using the resources.
+> Channel 3 ECP printer port, Channel 4 Dircet memory access controller
+
+Under the Components heading locate and list the following:
+Adapter Description:
+> 
+
+Adapter RAM:
+> 
+
+Under the Software Environment heading, where would you find the applications that automatically load
+when the computer boots?
+>
+
+What are the startup options?
+>
+
+Can you enable and disable services at this tab?
+>
+
+Click the Tools tab.
+Question:
+What can you do in this tab?
+>
+
+Make sure the System tab is active.
+Question:
+What does this tool report?
+>
+
+Click Next Page until you are at the Display tab.
+Question:
+What information is listed on this page?
+>
+
+Click Next Page until you are at the Sound tab.
+Question:
+What information is listed on this page?
+>
+
+What information is listed on this page?
+>
+
+List any additional tabs in your DirectX Diagnostic Tool window below.
+Question:
+What information is listed on these extra tabs?
+>
+
+Why would it be beneficial to turn off a service in the system configuration?
+>
+
+When would you use the startup tab of the system configuration tool?
+>
 
 ## 11.4.1.5 Lab - Work in the Windows Command Shell
 
