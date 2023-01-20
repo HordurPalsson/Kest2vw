@@ -611,15 +611,16 @@ What is the option to force the volume to dismount first if necessary?
 > /x
 
 What is the option to locate bad sectors and recover readable information?
->
+> /r
 
 Enter the chkdsk command to check the C:\ drive with the options from the questions in the previous
 step.
 Question:
 What happened? Explain
+> Keyrir ekki vegna þess að c drifið er í notkun
+
+What is the file system of the drive?
 >
-
-
 
 
 ## 11.4.4.2 Lab - Task and System CLI Commands
