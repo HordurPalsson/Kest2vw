@@ -593,16 +593,34 @@ Use help xcopy or xcopy /? to determine which switch would allow the xcopy comma
 files and directories.
 Question:
 What option allows you to copy all the files and directories, including the empty directories?
->
+> xcopy c:/  f:/
 
 Use the rd ITEfolder1 to delete the directory. Verify the directory removal using the dir command.
 Were you able to delete the directory? Explain.
->
+> Eyðir ekki möppuni út af því hún er ekki tóm.
 
 What are the advantages of using CLI vs. GUI?
 >  CLI er öflugri en GUI er auðveldari að skilja
 
 ## 11.4.3.2 Lab - Disk CLI Commands
+
+What is the option to fix errors on the drive?
+> /f
+
+What is the option to force the volume to dismount first if necessary?
+> /x
+
+What is the option to locate bad sectors and recover readable information?
+>
+
+Enter the chkdsk command to check the C:\ drive with the options from the questions in the previous
+step.
+Question:
+What happened? Explain
+>
+
+
+
 
 ## 11.4.4.2 Lab - Task and System CLI Commands
 
