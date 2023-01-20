@@ -485,3 +485,37 @@ Press up arrow to display the last command used.
 Question:
 What is the last command?
 > CLS
+
+## 11.4.2.7 Lab - File System Commands
+
+Type cd at the command prompt.
+Question:
+What is the current directory?
+>
+
+Type cd ITEfolder3 at the command prompt and press Enter.
+Question:
+Which folder are you in now?
+>
+
+Create ITEfolder4 in the current directory. Within the ITEfolder4 folder, create a folder named
+ITEfolder5. Use the dir command to verify the folder creation.
+Question:
+What command or commands did you use to create the nested folders?
+>
+
+After issuing the cd .. command, what is your directory now?
+>
+
+What would be the current directory if you issue this command at
+C:\Users\ITEUser\ITEfolder3\ITEFolder4?
+>
+
+What single command would you use to delete all the files with doc2 in the filename? Use the command
+to remove the files with doc2 in the filename.
+> del *doc2
+
+What command would you use to delete all the files in the directory? Use the command to remove the
+files
+> 
+
