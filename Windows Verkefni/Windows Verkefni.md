@@ -653,7 +653,7 @@ What command would you use if you wanted to terminate all process owned by a par
 >taskkill /fi username eq user
 
 What option would you use if you only wanted to scan the integrity of all the protected system files?
->
+>sfc /scannow
 
 What would you add to the command so you can view the output one page at a time?
 >
