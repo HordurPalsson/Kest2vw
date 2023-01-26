@@ -634,5 +634,51 @@ What is the maximum number of reclaimable bytes?
 
 ## 11.4.4.2 Lab - Task and System CLI Commands
 
+What command would you use to display the results of tasklist one page at a time?
+> tasklist
+
+What is the option to list the modules that are associated with a task?
+>
+
+What command would you use if you want to find all the tasks that use the module oleaut32.dll? List a few tasks that uses oleaut32.dll.
+>
+
+What command would you use to find out all the tasks that are associated with your username?
+>
+
+What command would you use to find out all the processes that have been running for more than 1 hour and 40 minutes?
+>
+
+What command would you use if you wanted to terminate all process owned by a particular user?
+>
+
+What option would you use if you only wanted to scan the integrity of all the protected system files?
+>
+
+What would you add to the command so you can view the output one page at a time?
+>
+
+Enter the command to log off your computer. Record the command below.
+>
+
+Record the command below. What warning message did you see?
+>
+
+What command would you use to abort the shutdown?
+>
 ## 11.4.5.3 Lab - Other Useful Commands(sleppa step 2 í part 2)
+
+When does the password expire?
+>
+
+Record the network resource information provided by your instructor. 
+Network Resource:
+>
+Username:
+>
+Password:
+>
+
+What is the local drive letter assigned to the connected resource?
+>
 
