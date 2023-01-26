@@ -656,10 +656,10 @@ What option would you use if you only wanted to scan the integrity of all the pr
 >sfc /scannow
 
 What would you add to the command so you can view the output one page at a time?
->
+>| more
 
 Enter the command to log off your computer. Record the command below.
->
+> 
 
 Record the command below. What warning message did you see?
 >
