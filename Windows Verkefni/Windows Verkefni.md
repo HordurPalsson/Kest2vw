@@ -635,22 +635,22 @@ What is the maximum number of reclaimable bytes?
 ## 11.4.4.2 Lab - Task and System CLI Commands
 
 What command would you use to display the results of tasklist one page at a time?
-> tasklist
+> tasklist | more
 
 What is the option to list the modules that are associated with a task?
->
+>/M
 
 What command would you use if you want to find all the tasks that use the module oleaut32.dll? List a few tasks that uses oleaut32.dll.
->
+>tasklist /m oleaut32.dll
 
 What command would you use to find out all the tasks that are associated with your username?
->
+>tasklist /fi username
 
 What command would you use to find out all the processes that have been running for more than 1 hour and 40 minutes?
->
+>tasklist /fi cputime gt 01:40:00
 
 What command would you use if you wanted to terminate all process owned by a particular user?
->
+>taskkill /fi username eq user
 
 What option would you use if you only wanted to scan the integrity of all the protected system files?
 >
