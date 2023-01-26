@@ -659,13 +659,14 @@ What would you add to the command so you can view the output one page at a time?
 >| more
 
 Enter the command to log off your computer. Record the command below.
-> 
+> shutdown -L
 
 Record the command below. What warning message did you see?
->
+> You are about to be signed out
 
 What command would you use to abort the shutdown?
->
+> shutdown -a
+
 ## 11.4.5.3 Lab - Other Useful Commands(sleppa step 2 í part 2)
 
 When does the password expire?
@@ -674,8 +675,10 @@ When does the password expire?
 Record the network resource information provided by your instructor. 
 Network Resource:
 >
+
 Username:
 >
+
 Password:
 >
 
