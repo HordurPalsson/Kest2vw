@@ -670,18 +670,29 @@ What command would you use to abort the shutdown?
 ## 11.4.5.3 Lab - Other Useful Commands(sleppa step 2 í part 2)
 
 When does the password expire?
->
+> 10/3/2023
 
-Record the network resource information provided by your instructor. 
-Network Resource:
->
+## 11.5.2.4 Lab - Share Resources
+
+
+## 11.5.6.2 Lab - Windows Remote Desktop and Assistance
+
+Record the name of this computer.
+> DESKTOP-SBSOHAH
+
+Click Advanced settings.
+Question:
+What is the current Remote Desktop Port?
+> 3389
+
+What CLI command would you use to get the IP address?
+> ipconfig /all
 
 Username:
->
+> bingo bongo
 
 Password:
->
+> pass.123
 
-What is the local drive letter assigned to the connected resource?
+What message is displayed on the remote computer and how much time is mentioned?
 >
-
