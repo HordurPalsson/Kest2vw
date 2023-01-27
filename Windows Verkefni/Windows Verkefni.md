@@ -676,7 +676,7 @@ When does the password expire?
 
 What is the name of your computer? Provide your computer name and shared folder name to your
 partner
-> DESKTOP-SBSOHAH
+> DESKTOP-SBSOHAH, ShareXX
 
 What is the name of your partner’s computer and shared folder from your partner?
 >
