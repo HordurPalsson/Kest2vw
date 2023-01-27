@@ -726,10 +726,10 @@ What message is displayed on the remote computer and how much time is mentioned?
 >
 
 What is the default amount of time remote assistance invitations remain open?
-> 6 klukkutimar
+> 6 klukkutímar
 
 What are the ways to send an invitation to a trusted person with Remote Assistance?
-> t.d. Email, sms og simtal
+> t.d. Email, sms og símtali
 
 What type of scenarios are most appropriate for Remote Assistance in contrast with Remote Desktop?
 > Remote desktop er fyrir einstakling. Remote assitance er til þess að fá hjálp frá öðrum notenda.
