@@ -674,6 +674,34 @@ When does the password expire?
 
 ## 11.5.2.4 Lab - Share Resources
 
+What is the name of your computer? Provide your computer name and shared folder name to your
+partner
+> DESKTOP-SBSOHAH
+
+What is the name of your partner’s computer and shared folder from your partner?
+>
+
+Can you open the Brief file?
+>
+
+Can you delete the Brief file? What happens?
+>
+
+What are the default permissions?
+>
+
+What needs to be changed to allow any remote users to make changes in the ShareXX folder?
+> Instead of selecting a specific user you select everyone in the sharing settings for the file you are sharing
+
+Can you open the Brief file?
+>
+
+Can you delete the Brief file? What happens?
+>
+
+What can you do to assign a drive letter to your partner’s shared folder?
+>
+
 
 ## 11.5.6.2 Lab - Windows Remote Desktop and Assistance
 
@@ -696,3 +724,22 @@ Password:
 
 What message is displayed on the remote computer and how much time is mentioned?
 >
+
+What is the default amount of time remote assistance invitations remain open?
+> 6 klukkutimar
+
+What are the ways to send an invitation to a trusted person with Remote Assistance?
+> t.d. Email, sms og simtal
+
+What type of scenarios are most appropriate for Remote Assistance in contrast with Remote Desktop?
+> Remote desktop er fyrir einstakling. Remote assitance er til þess að fá hjálp frá öðrum notenda.
+
+How many simultaneous users can access a Windows computer at a single time?
+> 2
+
+What type of security components are implemented with Windows Remote Desktop?
+> Network level authentication
+
+How could remote desktop be used as a beneficial technology in the workplace?
+> Fólk getur fengið aðstoð frá einhverjum sem er ekki endilega á staðnum eða 
+unnið að heimann án þess að vista gögn á einkatölvu sína.
