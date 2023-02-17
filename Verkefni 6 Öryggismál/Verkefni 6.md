@@ -37,8 +37,10 @@ Are there any you would recommend changing? Why?
 | Policy | Security Setting |
 |-------|------|
 | Interactive logon: Machine inactivity limit | 1800 seconds |
+| Allow undock without having to log on | Disabled |
+| Message title for users attempting to log on | Caution |
+| Message text for users attempting to log on |  Your activity is monitored. This computer is for business use only|
+| Prompt user to change password before expiration | 7 days |
 | | |
-| | |
-| | |
-| | |
-| | |
+
+## 13.3.3.6 Configure Users and Groups in Windows
