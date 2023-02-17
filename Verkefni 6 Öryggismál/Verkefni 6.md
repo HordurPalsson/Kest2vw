@@ -27,3 +27,18 @@ account is locked?
 
 How long should the user have to wait before attempting to log back in?
 > 5 minutes
+
+Although none of the security settings need to be modified to meet the security policy requirements,
+spend some time viewing the default settings.
+Question:
+Are there any you would recommend changing? Why?
+> Mér fannst ekkert þurfa á því að halda. Default stillingar næjga.
+
+| Policy | Security Setting |
+|-------|------|
+| Interactive logon: Machine inactivity limit | 1800 seconds |
+| | |
+| | |
+| | |
+| | |
+| | |
