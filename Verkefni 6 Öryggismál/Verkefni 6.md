@@ -7,7 +7,7 @@ Why is it important to save a BitLocker recovery key?
 > Það er eina leiðinn till þess að fá aðgang aftur ef maður gleymir lykilorðinu.
 
 What is the function of a TPM in relation to BitLocker?
-> Búnaður á móðurborðinu sem geymir gögn fyrir tölvuna t.d. encryption keys, digital certificates og aðgangsorð.
+> Búnaður á móðurborðinu sem geymir gögn fyrir tölvuna t.d. encryption keys, digital certificates og aðgangsorð fyrir bitlocker.
 
 ## 13.3.2.5 Configure Windows Local Security Policy
 
