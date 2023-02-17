@@ -26,7 +26,7 @@ account is locked?
 > 5 sinnum
 
 How long should the user have to wait before attempting to log back in?
-> 5 minutes
+> 5 mínútur
 
 Although none of the security settings need to be modified to meet the security policy requirements,
 spend some time viewing the default settings.
