@@ -1,5 +1,5 @@
 # Verkefni 6
-##
+## Eiríkur og Hörður
 
 ## 13.2.3.7 Bitlocker and Bitlocker To Go
 
