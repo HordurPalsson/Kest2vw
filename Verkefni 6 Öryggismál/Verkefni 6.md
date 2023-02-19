@@ -19,7 +19,6 @@ What is the function of a TPM in relation to BitLocker?
 | Minimum password length | 8 characters|
 | Password must meet complexity requirements | Enabled |
 | Store passwords using reversible encryption | Disabled |
-| | |
 
 According to the security policy in Step 1, how many times is a user allowed to attempt to login before the
 account is locked?
@@ -41,6 +40,5 @@ Are there any you would recommend changing? Why?
 | Message title for users attempting to log on | Caution |
 | Message text for users attempting to log on |  Your activity is monitored. This computer is for business use only|
 | Prompt user to change password before expiration | 7 days |
-| | |
 
 ## 13.3.3.6 Configure Users and Groups in Windows
