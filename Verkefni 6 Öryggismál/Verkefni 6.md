@@ -103,3 +103,33 @@ How would you give administrative privileges on the local computer to all the me
 
 How would you deny access to a file for everyone except the owner?
 >nei
+
+## 13.3.4.6 Configure Windows Firewall
+
+Under PC-1, are you able to see the shared folder Cisco?
+>ja
+
+What are the benefits of Windows Firewall?
+>verndar þig frá netárásum með því að filtera hættuleg net trafic
+
+Creating too many exceptions in your Programs and Services file can have negative consequences.
+Describe a negative consequence of having too many exceptions.
+>opnari fyrir árásum
+
+Can you connect to PC-1 and view the Cisco shared folder?
+>nei
+
+Did you receive an error message on PC-2? If so, what was the Error message?
+>network error cannot access windows
+
+Can you connect to computer 1? Explain.
+>ja pc 1 er með  kveikt á file sharing aftur
+
+List the short name of four services that are available in the Customize Service Settnigs window.
+>
+ 
+List four of the Specific ICMP types.
+>
+
+What are some possible reasons you may need to make firewall changes?
+>
