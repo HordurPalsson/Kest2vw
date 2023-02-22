@@ -126,13 +126,13 @@ Can you connect to computer 1? Explain.
 >ja pc 1 er með  kveikt á file sharing aftur
 
 List the short name of four services that are available in the Customize Service Settnigs window.
-> 
+> App readiness, Application identity, Application infomation, Application managngment
  
 List four of the Specific ICMP types.
->
+>echo request, packet too big, redirect, time ecceded
 
 What are some possible reasons you may need to make firewall changes?
->
+>ef þú ætlar að hleypa einhverju appi sem firewallið er að banna
 
 ## 13.4.1.10 Packet Tracer - Configure Wireless Security
 
