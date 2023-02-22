@@ -133,3 +133,8 @@ List four of the Specific ICMP types.
 
 What are some possible reasons you may need to make firewall changes?
 >
+
+## 13.4.1.10 Packet Tracer - Configure Wireless Security
+
+Packet tracer skjalið er inni í repoinum.
+
