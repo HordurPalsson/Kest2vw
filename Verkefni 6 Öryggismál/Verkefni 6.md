@@ -99,10 +99,10 @@ Can you log on as Staff02? Explain.
 >nei accountið er disabled
 
 How would you give administrative privileges on the local computer to all the members of ITEStaff?
->ja þeir eru staff
+> Bæta ITEstaff við admin hópinn einn í einu
 
 How would you deny access to a file for everyone except the owner?
->nei
+> Fara í security tab hjá skráni og taka í burtu leyfi frá öllum hópum fyrir utan notendann sem bjó til skráina.
 
 ## 13.3.4.6 Configure Windows Firewall
 
@@ -126,7 +126,7 @@ Can you connect to computer 1? Explain.
 >ja pc 1 er með  kveikt á file sharing aftur
 
 List the short name of four services that are available in the Customize Service Settnigs window.
->
+> 
  
 List four of the Specific ICMP types.
 >
