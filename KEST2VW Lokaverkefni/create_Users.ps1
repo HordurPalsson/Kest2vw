@@ -7,6 +7,8 @@ $notendur | Format-Table
 
 # Allir settir í þennan hóp
 $default_Hopur = "Allir"
+# Default password
+$default_Password = "pass.123"
 
 foreach ($notandi in $notendur) {
     $nafn = $notandi.nafn
@@ -15,8 +17,8 @@ foreach ($notandi in $notendur) {
     $notendanafn = $notandi.notendanafn
     $hopur = $notandi.hopur
 
-    #Býr til nýjan notendna út úr upplýsingunum frá csv skránni
-    New-ADUser -Name $nafn -GivenName $fornafn -Surname $eftirnafn -DisplayName $notendanafn 
-    Add-ADGroupMember -Identity $hopur -Members $nafn
-    Add-ADGroupMember -Identity $defdefault_Hopur -Members $nafn
+    #Býr til nýjan notendna út úr upplýsingunum frá csv skránni og setur hann í hóp
+    New-ADUser -Name $nafn -GivenName $fornafn -Surname $eftirnafn -DisplayName $notendanafn -AccountPassword $default_Password
+    Add-ADGroupMember -Identity $hopur -Members $notendanafn
+    Add-ADGroupMember -Identity $defdefault_Hopur -Members $notendanafn
 }
