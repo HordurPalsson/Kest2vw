@@ -15,7 +15,7 @@ foreach ($notandi in $notendur) {
     $notendanafn = $notandi.notendanafn
     $hopur = $notandi.hopur
 
-    #Býr til nýjan notendna 
+    #Býr til nýjan notendna út úr upplýsingunum frá csv skránni
     New-ADUser -Name $nafn -GivenName $fornafn -Surname $eftirnafn -DisplayName $notendanafn 
     Add-ADGroupMember -Identity $hopur
 }
