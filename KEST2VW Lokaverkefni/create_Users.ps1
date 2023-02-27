@@ -1,12 +1,24 @@
-﻿$notendur = Import-Csv -Path ".\KEST2VW Lokaverkefni\notendur.csv"
+﻿# Þarf RSAT:Active Directory Domain Services and Lightweight...
+# Til þess að kóðinn virki. Finnst í optional features.
+
+# Velur csv skráina
+$notendur = Import-Csv -Path ".\KEST2VW Lokaverkefni\notendur.csv"
 $notendur | Format-Table
 
+# Allir settir í þennan hóp
+$default_Hopur = "Allir"
 
-# Virkar ekki
 foreach ($notandi in $notendur) {
-    New-ADUser -Nafn $notandi.nafn -Fornafn $notandi.fornafn -Eftirnafn $notandi.eftirnafn -Hopur $notandi.notendanafn 
+    $nafn = $notandi.nafn
+    $fornafn = $notandi.fornafn
+    $eftirnafn = $notandi.eftirnafn
+    $notendanafn = $notandi.notendanafn
+    $hopur = $notandi.hopur
 
-    
+
+    #Býr til nýjan notendna 
+    New-ADUser -Name $nafn -GivenName $fornafn -Surname $eftirnafn -DisplayName $notendanafn 
+    Add-ADGroupMember -Identity 
 }
     
 
