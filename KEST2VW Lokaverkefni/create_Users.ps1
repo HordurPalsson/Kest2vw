@@ -17,8 +17,6 @@ foreach ($notandi in $notendur) {
 
     #Býr til nýjan notendna út úr upplýsingunum frá csv skránni
     New-ADUser -Name $nafn -GivenName $fornafn -Surname $eftirnafn -DisplayName $notendanafn 
-    Add-ADGroupMember -Identity $hopur
+    Add-ADGroupMember -Identity $hopur -Members $nafn
+    Add-ADGroupMember -Identity $defdefault_Hopur -Members $nafn
 }
-    
-
-
