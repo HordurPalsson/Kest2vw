@@ -18,8 +18,10 @@ foreach ($notandi in $notendur) {
     $notendanafn = $notandi.notendanafn
     $hopur = $notandi.hopur
 
+    $fulltnafn = $fornafn + " " + $eftirnafn    
+
     #Býr til nýjan notendna út úr upplýsingunum frá csv skránni og setur hann í hóp
-    New-ADUser -Name $nafn -GivenName $fornafn -Surname $eftirnafn -DisplayName $notendanafn -AccountPassword (ConvertTO-SecureString -AsPlainText $default_Password)
-    Add-ADGroupMember -Identity $hopur -Members $notendanafn
-    Add-ADGroupMember -Identity $default_Hopur -Members $notendanafn
+    New-LocalUser -Name $notendanafn -FullName $fulltnafn  -Password (Read-Host -AsSecureString $default_Password) 
+    Add-LocalGroupMember -Group $default_Hopur -Member $notendanafn
+    Add-LocalGroupMember -Group $hopur -Member $notendanafn
 }
