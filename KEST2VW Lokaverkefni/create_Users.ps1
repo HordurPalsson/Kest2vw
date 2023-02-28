@@ -1,5 +1,6 @@
 ﻿# Þarf RSAT:Active Directory Domain Services and Lightweight...
 # Til þess að kóðinn virki. Finnst í optional features.
+Import-Module ActiveDirectory
 
 # Velur csv skráina
 $notendur = Import-Csv -Path ".\KEST2VW Lokaverkefni\notendur.csv"
@@ -18,7 +19,7 @@ foreach ($notandi in $notendur) {
     $hopur = $notandi.hopur
 
     #Býr til nýjan notendna út úr upplýsingunum frá csv skránni og setur hann í hóp
-    New-ADUser -Name $nafn -GivenName $fornafn -Surname $eftirnafn -DisplayName $notendanafn -AccountPassword $default_Password
+    New-ADUser -Name $nafn -GivenName $fornafn -Surname $eftirnafn -DisplayName $notendanafn -AccountPassword (ConvertTO-SecureString -AsPlainText $default_Password)
     Add-ADGroupMember -Identity $hopur -Members $notendanafn
     Add-ADGroupMember -Identity $defdefault_Hopur -Members $notendanafn
 }
