@@ -5,7 +5,7 @@ $notendur | Format-Table
 # Allir settir í þennan hóp
 $default_Hopur = "Allir"
 # Default password
-$default_Password = (Read-Host -AsSecureString "Enter  new password: ")
+$default_Password = (Read-Host -AsSecureString "Enter new password: ")
 
 foreach ($notandi in $notendur) {
     $nafn = $notandi.nafn
